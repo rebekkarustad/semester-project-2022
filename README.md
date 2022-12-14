@@ -6,17 +6,24 @@ Semester project from spring 2022. We were to create a e-commerce website that h
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+I have built an e-commerce websit for a shoe store. Yhe logo is simple and made by me for this project.
 
-You can add some bullet points if you'd like to:
+The website have a customer-facing section which inlcudes:
 
-- List item 1
-- List item 2
-- List item 3
+- Home
+- Product list
+- Product detail
+- Cart pages.
+
+And it also have a admin sections which inlcudes:
+
+- Create products
+- Update products
+- Delete products
+
+The website is responsive on all devices.
 
 ## Built With
-
-You can list a the tech stack that you've used over here
 
 - [Sass](https://sass-lang.com/)
 - [FontAwesome](https://fontawesome.com/)
@@ -41,6 +48,14 @@ For the website to work, you will have to run this Strapi project locally.
 git clone git@github.com:NoroffFEU/strapi-sp2
 npm install
 npm run develop
+```
+
+User credentials
+
+```bash
+email: admin@admin.com
+username: admin
+password: Pass1234
 ```
 
 3. Make sure you have "Live Server" installed
