@@ -10,16 +10,17 @@ I have built an e-commerce websit for a shoe store. Yhe logo is simple and made 
 
 The website have a customer-facing section which inlcudes:
 
-- Home
-- Product list
-- Product detail
-- Cart pages.
+- Home - Includes a hero banner from Strapi and a list of feautured products.
+- Product list - The list is from Strapi, and the page also includes a functional search text box.
+- Product detail - This is seen when you click on the products with all the details of each product.
+- Cart pages - When adding a product to the cart, it ends up here.
 
 And it also have a admin sections which inlcudes:
 
-- Create products
-- Update products
-- Delete products
+- Login page - You can log in with the credentials from Strapi. You will be kept logged in trhough local storage.
+- Create products - When logged in, you can create a new product.
+- Update products - When logged in, you can update all products.
+- Delete products - When logged in, you can delete all products.
 
 The website is responsive on all devices.
 
