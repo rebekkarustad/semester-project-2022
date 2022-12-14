@@ -6,7 +6,7 @@ Semester project from spring 2022. We were to create a e-commerce website that h
 
 ## Description
 
-I have built an e-commerce websit for a shoe store. Yhe logo is simple and made by me for this project.
+I have built an e-commerce websit for a shoe store. The logo is simple and made by me for this project.
 
 The website have a customer-facing section which inlcudes:
 
