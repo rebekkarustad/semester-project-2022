@@ -50,7 +50,7 @@ npm install
 npm run develop
 ```
 
-User credentials
+User credentials:
 
 ```bash
 email: admin@admin.com
@@ -68,5 +68,5 @@ Right click on index.html and chose "Open with Live Server"
 
 ## Contact
 
-[My LinkedIn page](https://www.linkedin.com/in/rebekka-rustad-96ab5389/)
-[My Instagram page](https://www.instagram.com/rrustad/)
+- [My LinkedIn page](https://www.linkedin.com/in/rebekka-rustad-96ab5389/)
+- [My Instagram page](https://www.instagram.com/rrustad/)
