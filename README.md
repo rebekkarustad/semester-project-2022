@@ -1,24 +1,24 @@
 # Semester Project 2022 - Shoe Store
 
-![image](https://starlit-donut-baff3e.netlify.app/images/shoe-store.png)
+![image](https://rebekkarustad.netlify.app/images/shoe-store.png)
 
-Semester project from spring 2022. We were to create a e-commerce website that had both a customer-facing and adming sections.
+Semester project from spring 2022. We were to create an e-commerce website with both customer-facing and admin sections.
 
 ## Description
 
-I have built an e-commerce websit for a shoe store. The logo is simple and made by me for this project.
+I have built an e-commerce website for a shoe store. The logo is simple and made by me for this project.
 
-The website have a customer-facing section which inlcudes:
+The website has a customer-facing section that includes:
 
-- Home - Includes a hero banner from Strapi and a list of feautured products.
-- Product list - The list is from Strapi, and the page also includes a functional search text box.
+- Home - Includes a hero banner from Strapi and a list of featured products.
+- Product list - The list is from Strapi, and the page includes a functional search text box.
 - Product detail - This is seen when you click on the products with all the details of each product.
 - Cart pages - When adding a product to the cart, it ends up here.
 
-And it also have a admin sections which inlcudes:
+And it also has an admin section that includes:
 
-- Login page - You can log in with the credentials from Strapi. You will be kept logged in trhough local storage.
-- Create products - When logged in, you can create a new product.
+- Login page - You can log in with the credentials from Strapi. You will be kept logged in through local storage.
+- Create products - You can create a new product when logged in.
 - Update products - When logged in, you can update all products.
 - Delete products - When logged in, you can delete all products.
 
@@ -64,10 +64,3 @@ password: Pass1234
 [Install Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 4. Open with Live Server
-
-Right click on index.html and chose "Open with Live Server"
-
-## Contact
-
-- [My LinkedIn page](https://www.linkedin.com/in/rebekka-rustad-96ab5389/)
-- [My Instagram page](https://www.instagram.com/rrustad/)
